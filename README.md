@@ -1,1 +1,1 @@
-### Sentiment Analysis Based Review Classification for a Leading Restraunt Chain.
+### Sentiment Analysis Based Review Classification for a Leading Restaurant Chain.
